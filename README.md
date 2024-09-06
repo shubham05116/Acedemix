@@ -1,7 +1,4 @@
 # Online Education Platform (MERN App)
-
-![image](https://github.com/shubham05116/study-notion/assets/88928071/bbeddef0-7303-4ea3-968e-0237ee2c4ac9)
-
 ## Project Description
 
 Acedemix is a fully functional ed-tech platform that enables users to create, consume,
