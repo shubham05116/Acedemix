@@ -1,13 +1,10 @@
-# StudyNotion Online Education Platform (MERN App)
-
-![image](https://github.com/shubham05116/study-notion/assets/88928071/bbeddef0-7303-4ea3-968e-0237ee2c4ac9)
-
+# Online Education Platform (MERN App)
 ## Project Description
 
-StudyNotion is a fully functional ed-tech platform that enables users to create, consume,
+Acedemix is a fully functional ed-tech platform that enables users to create, consume,
 and rate educational content. The platform is built using the MERN stack, which includes
 ReactJS, NodeJS, MongoDB, and ExpressJS.
-StudyNotion aims to provide:
+Acedemix aims to provide:
 * A seamless and interactive learning experience for students, making education
 more accessible and engaging.
 * A platform for instructors to showcase their expertise and connect with learners
@@ -30,7 +27,7 @@ tools used.
 explanation of how these enhancements would improve the platform, estimated
 timeline and priority for implementing these enhancements.
 
-In summary, StudyNotion is a versatile and intuitive ed-tech platform that is designed to
+In summary, Acedemix is a versatile and intuitive ed-tech platform that is designed to
 provide an immersive learning experience to students and a platform for instructors to
 showcase their expertise. In the following sections, we will delve into the technical details
 of the platform, which will provide a comprehensive understanding of the platform's
@@ -38,7 +35,7 @@ features and functionalities.
 
 ## System Architecture
 
-The StudyNotion ed-tech platform consists of three main components: the front end, the
+The Acedemix ed-tech platform consists of three main components: the front end, the
 back end, and the database. The platform follows a client-server architecture, with the
 front end serving as the client and the back end and database serving as the server.
 
@@ -74,7 +71,7 @@ platform:
 
 ## Front End
 
-The front end of StudyNotion has all the necessary pages that an ed-tech platform should
+The front end of Acedemix has all the necessary pages that an ed-tech platform should
 have. Some of these pages are:
 
 ### For Students:
