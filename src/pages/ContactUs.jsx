@@ -13,7 +13,7 @@ const ContactUs = () => {
                     <h1 className="text-lg font-semibold text-richblack-5">Chat on us</h1>
                     </div>
                     <p className='font-medium'>Our friendly team is here to help.</p>
-                    <p className='font-semibold'>info@studynotion.com</p>
+                    <p className='font-semibold'>info@Academix.com</p>
                 </div>
                 <div className="flex flex-col gap-[2px] p-3 text-sm text-richblack-200">
                     <div className='flex flex-row items-center gap-3'>

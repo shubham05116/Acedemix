@@ -20,7 +20,7 @@ const About = () => {
             <header className='mx-auto py-20 text-4xl font-semibold lg:w-[70%]'>
                 Driving Innovation in Online Education for a 
                 <HighlightText text={"Brighter Future"}/>
-                <p className='mx-auto mt-3 text-center text-base font-medium text-richblack-300 lg:w-[95%]'>Studynotion is at the forefront of driving innovation in online education. We're passionate about creating a brighter future by offering cutting-edge courses, leveraging emerging technologies, and nurturing a vibrant learning community.</p>
+                <p className='mx-auto mt-3 text-center text-base font-medium text-richblack-300 lg:w-[95%]'>Academix is at the forefront of driving innovation in online education. We're passionate about creating a brighter future by offering cutting-edge courses, leveraging emerging technologies, and nurturing a vibrant learning community.</p>
             </header>
             <div className='sm:h-[70px] lg:h-[150px]'></div>
             <div className='absolute bottom-0 left-[50%] grid w-[100%] translate-x-[-50%] translate-y-[30%] grid-cols-3 gap-3 lg:gap-5'>
